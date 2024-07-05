@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810661974261",
+    "project_id": "folkgama123",
+    "storage_bucket": "folkgama123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810661974261:android:b4655f816ee4603ea8f5bc",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810661974261-03346lbjl2tisrfr5r02p3353fu6ckm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNOqw9cvlUsF2WZJPTJZNsCvwXLSgqz2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810661974261-03346lbjl2tisrfr5r02p3353fu6ckm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
